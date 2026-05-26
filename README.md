@@ -185,5 +185,4 @@ Then run the benchmark cells in order.
 This project was built as a hands-on companion to studying LLM inference engineering concepts including KV cache management, paged attention, continuous batching, chunked prefill, speculative decoding, and quantization. The goal was to connect theory to real measured numbers on real hardware.
 
 **Author:** Santhoshini (Pranathi)  
-**Background:** PhD researcher in quantum machine learning for cybersecurity at RGUKT Nellore  
-**Context:** Learning inference engineering as a parallel skill alongside quantum ML research
+
