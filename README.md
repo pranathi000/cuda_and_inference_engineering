@@ -40,20 +40,7 @@ All results measured on **NVIDIA T4 GPU** (Google Colab).
 
 ---
 
-## Architecture
-transformer-inference-engine/
-│
-├── minimal_tranformer_inference_engine.ipynb    ← complete implementation, one notebook
-│
-└── plots/
-├── plot_7_1_ttft_vs_prompt.png
-├── plot_7_2_kvcache_latency.png
-├── plot_7_3_memory_wall.png
-├── plot_7_4_throughput.png
-├── plot_7_5_utilization_timeline.png
-├── plot_7_6_queue_depth.png
-└── plot_7_7_priority.png
----
+
 
 ## Notebook Structure
 
